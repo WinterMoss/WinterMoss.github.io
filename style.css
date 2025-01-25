@@ -3,11 +3,11 @@ body {
   font-size: 20px;
 }
 
-h1, h2, h3 {
+div {
   font-family: 'Verdana';
   font-size: 28px;
 }
 
 p {
-  font-size: 14px;
+  font-size: 80px;
 }
