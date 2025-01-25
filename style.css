@@ -5,11 +5,11 @@ body {
 .parent {
   display: flex;
   justify-content: center;
-  border: 5px solid black;
+  border: 1px solid black;
 }
 
 p {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .subtitle {
