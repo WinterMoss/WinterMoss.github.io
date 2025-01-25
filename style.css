@@ -16,3 +16,8 @@ p {
   display: flex;
   justify-content: center;
 }
+.his {
+  width:100%;
+  height:100%;
+
+}
