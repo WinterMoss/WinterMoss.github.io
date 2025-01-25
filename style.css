@@ -5,7 +5,7 @@ body {
 .parent {
   display: flex;
   justify-content: center;
-  border: 5px solid blue;
+  border: 5px solid black;
 }
 
 p {
@@ -15,5 +15,5 @@ p {
 .subtitle {
   display: flex;
   justify-content: center;
-  border: 5px solid blue;
+  border: 5px solid black;
 }
