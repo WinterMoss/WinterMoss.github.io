@@ -31,8 +31,8 @@ image {
 #image1 {
   height: auto;
   width: auto;
-  max-width:130%;
-  max-height:130%;
+  max-width:50%;
+  max-height:50%;
 }
 
 .image-text-container {
