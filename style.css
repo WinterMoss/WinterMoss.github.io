@@ -24,17 +24,22 @@ iframe {
 
 }
 image {
+  height: auto;
   width:200px;
   height:100%;
   
 }
 
-.image-text-container {
-  height: auto;
-  position: relative;
-  display: inline-block;
+#image1 {
   max-width:50%;
   max-height:50%;
+}
+
+.image-text-container {
+
+  position: relative;
+  display: inline-block;
+
 }
 .text-overlay {
   position: absolute;
