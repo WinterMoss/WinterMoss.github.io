@@ -10,7 +10,7 @@ body {
 
 p {
   font-size: 20px;
-  font-family: Arial, sans-serif;
+  font-family: Sans, sans-serif;
 }
 
 .subtitle {
@@ -38,7 +38,7 @@ image {
 
 .image-text-container {
   width: 100vw;
-  height: 100vh;
+  
   display: flex;
   align-items: center;
   position: relative;
