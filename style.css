@@ -30,10 +30,11 @@ image {
 }
 
 .image-text-container {
+  height: auto;
   position: relative;
   display: inline-block;
-  width:50%;
-  height:50%;
+  max-width:50%;
+  max-height:50%;
 }
 .text-overlay {
   position: absolute;
