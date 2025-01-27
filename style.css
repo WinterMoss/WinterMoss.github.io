@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Sans, sans-serif;
 }
 
 .parent {
@@ -47,7 +47,7 @@ image {
 }
 .text-overlay {
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
