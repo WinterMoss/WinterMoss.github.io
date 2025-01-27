@@ -36,7 +36,10 @@ image {
 }
 
 .image-text-container {
-
+  height: auto;
+  width: auto;
+  max-width:100%;
+  max-height:100%;
   position: relative;
   display: inline-block;
 
@@ -47,6 +50,6 @@ image {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 24px;
+  font-size: 36px;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
 }
