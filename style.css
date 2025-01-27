@@ -32,6 +32,8 @@ image {
 .image-text-container {
   position: relative;
   display: inline-block;
+  width:50%;
+  height:50%;
 }
 .text-overlay {
   position: absolute;
