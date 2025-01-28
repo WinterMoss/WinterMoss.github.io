@@ -37,8 +37,8 @@ image {
 }
 
 .image-text-container {
-  width: 100vw;
-  height: 50vh;
+  width: 95vw;
+  height: 100vh;
   display: flex;
   align-items: center;
   position: relative;
