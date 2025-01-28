@@ -31,8 +31,8 @@ image {
 #image1 {
   object-fit: cover;
   position: absolute;
-  max-width:97%;
-  max-height:100%;
+  max-width:100%; 
+  height:auto;
   display: block;
 }
 
