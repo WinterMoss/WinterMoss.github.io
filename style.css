@@ -39,12 +39,11 @@ image {
 
 .image-text-container {
   object-fit: cover;
-  display: grid;
+  display: flex;
   place-items: center;
   width: 90vw;
   height: 100vh%;
   align-items: center;
-  position: relative;
   justify-content: center;
 }
 .text-overlay {
