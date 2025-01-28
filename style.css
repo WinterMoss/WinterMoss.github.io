@@ -36,7 +36,6 @@ image {
 }
 
 .image-text-container {
-  object-fit: cover;
   display: flex;
   place-items: center;
   width: 100vw;
