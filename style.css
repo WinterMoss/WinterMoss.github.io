@@ -29,6 +29,7 @@ image {
 }
 
 #image1 {
+  object-fit: cover;
   position: absolute;
   max-width:200%;
   max-height:200%;
