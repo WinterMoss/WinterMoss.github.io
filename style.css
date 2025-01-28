@@ -37,12 +37,13 @@ image {
 }
 
 .image-text-container {
+  display: grid;
+  place-items: center;
   width: 100vw;
   height: 100vh;
   display: flex;
   align-items: center;
   position: relative;
-  display: inline-block;
   justify-content: center;
 }
 .text-overlay {
