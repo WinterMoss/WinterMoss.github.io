@@ -29,7 +29,6 @@ image {
 }
 
 #image1 {
-  object-fit: cover;
   position: absolute;
   max-width:100%; 
   height:auto;
@@ -37,6 +36,7 @@ image {
 }
 
 .image-text-container {
+  object-fit: cover;
   overflow:hidden;
   display: grid;
   place-items: center;
