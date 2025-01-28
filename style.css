@@ -31,6 +31,7 @@ image {
 #image1 {
   position: absolute;
   width:auto; 
+  max-width:100%
   max-height:100%;
   display: block;
 }
@@ -41,7 +42,7 @@ image {
   display: grid;
   place-items: center;
   width: 100vw;
-  height: 80vh;
+  height: 70vh;
   align-items: center;
   position: relative;
   justify-content: center;
@@ -52,6 +53,6 @@ image {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 36px;
+  font-size: 50px;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
 }
