@@ -29,16 +29,13 @@ image {
 }
 
 #image1 {
-  height: auto;
-  width: auto;
+  position: absolute;
   max-width:200%;
   max-height:200%;
   display: block;
 }
 
 .image-text-container {
-  height: auto;
-  width: auto;
   width: 100vw;
   height: 100vh;
   display: flex;
