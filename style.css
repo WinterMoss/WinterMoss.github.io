@@ -31,7 +31,7 @@ image {
 #image1 {
   height: auto;
   width: auto;
-  max-width:100%;
+  max-width:90%;
   max-height:100%;
   display: block;
 }
