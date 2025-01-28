@@ -41,7 +41,6 @@ image {
   place-items: center;
   width: 100vw;
   height: 100vh;
-  display: flex;
   align-items: center;
   position: relative;
   justify-content: center;
