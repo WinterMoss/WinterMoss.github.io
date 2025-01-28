@@ -41,7 +41,7 @@ image {
   display: grid;
   place-items: center;
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
   align-items: center;
   position: relative;
   justify-content: center;
