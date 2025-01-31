@@ -1,5 +1,5 @@
 body {
-  font-family: Sans, sans-serif;
+  font-family: Inter, sans-serif;
 }
 
 .parent {
@@ -10,7 +10,7 @@ body {
 
 p {
   font-size: 20px;
-  font-family: Sans, sans-serif;
+  font-family: Inter, sans-serif;
   text-align: center;
 }
 
