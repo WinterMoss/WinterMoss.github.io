@@ -21,7 +21,7 @@ p {
   display: flex;
   text-align: center;
   justify-content: center;
-  background-color: gray;
+  background-color: #666666;
 }
 iframe {
   overflow: hidden;
