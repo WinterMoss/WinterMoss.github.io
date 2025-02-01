@@ -22,7 +22,7 @@ p {
   text-align: center;
   justify-content: center;
   background-color: #666666;
-  font-color: white;
+  color: white;
 }
 iframe {
   overflow: hidden;
