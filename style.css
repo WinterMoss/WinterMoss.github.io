@@ -15,6 +15,9 @@ p {
 }
 
 .subtitle {
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
   text-align: center;
   justify-content: center;
