@@ -31,6 +31,8 @@ p {
   justify-content: center;
   gap: 16px;
   padding: 16px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
 }
 .card {
   background-color: #ffffff;
