@@ -51,9 +51,11 @@ p {
 .card h3 {
   margin-top: 16px;
   margin-bottom: 8px;
+  text-align: left;
 }
 .card p {
   color: #777;
+  text-align: left;
 }
 
 iframe {
