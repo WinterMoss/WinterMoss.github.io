@@ -78,13 +78,15 @@ image {
 #image1 {
   height: 100%;
   width: auto;
-  max-height: 1280px;
+ /* max-height: 1280px; */
   object-fit: cover;
 }
 
 .image-text-container {
   position: relative; 
   display: inline-block;
+  height: 100%;
+  width: auto;
 }
 .text-overlay {
   position: absolute; 
