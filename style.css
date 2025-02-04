@@ -79,6 +79,7 @@ image {
   height: auto;
   width: 100%;
   max-width: 720px;
+  object-fit: cover;
 }
 
 .image-text-container {
