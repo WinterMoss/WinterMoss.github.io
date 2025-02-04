@@ -83,11 +83,11 @@ image {
 }
 
 .image-text-container {
+  width: max-content; 
   position: relative; 
   display: inline-block;
-  max-height: 1280px;
+  max-height: 7280px;
   height: auto;
-  width: auto;
 }
 .text-overlay {
   position: absolute; 
