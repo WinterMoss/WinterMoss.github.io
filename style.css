@@ -78,7 +78,7 @@ image {
 #image1 {
   height: auto;
   width: 100%;
-  max-width: 720px;
+  max-width: 1280px;
   object-fit: cover;
 }
 
