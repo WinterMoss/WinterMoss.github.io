@@ -33,6 +33,11 @@ p {
   padding: 16px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   text-align: center;
+  background-image: url('back.jpg');
+  background-attachment: fixed; 
+  background-size: cover;
+  height: 100vh;
+}
 }
 .card {
   background-color: #ffffff;
