@@ -109,9 +109,4 @@ img.background {
   top: 0;
   left: 0;
 }
-@media screen and (max-width: 640px){
-img.bg {
-	left: 50%;
-	margin-left: -320px;
-}
-}
+
