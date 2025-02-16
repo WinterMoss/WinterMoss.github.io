@@ -106,3 +106,9 @@ image {
   background-position: center;
   background-attachment: fixed;
 }
+
+@media {
+  .card {
+      grid-template-columns: 1fr;
+  }
+}
